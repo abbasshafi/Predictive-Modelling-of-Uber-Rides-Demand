@@ -19,3 +19,8 @@ reg.fit(X_train,y_train)
 
 print("Train Score",reg.score(X_train,y_train))
 print("Test Score",reg.score(X_test,y_test))
+
+pickle.dump(reg, open("taxi.pkl",'wb'))
+model = pickle.load(open("taxi.pkl",'rb'))
+
+print(model.predict([[100,2500000,15000,10]]))
