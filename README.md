@@ -15,6 +15,10 @@
 
 ![projectss](https://user-images.githubusercontent.com/57635556/146496242-6b4e6139-258c-4eb6-84ad-de847db030ac.png)
 
+## About Project
+Algorithm Used: Linear Regression
+Deployed on: Heroku
+ 
 ## Authors
 
 - [Abbas Shafi](https://github.com/abbasshafi)
