@@ -4,7 +4,7 @@
 
 # Uber Rides Prediction
 
-This project is about is for analysis of rides which will be availaible in a city respective of certain factors.
+
 
 
 
