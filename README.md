@@ -15,7 +15,7 @@ This project is about is for analysis of rides which will be availaible in a cit
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![projectss](https://user-images.githubusercontent.com/57635556/146496242-6b4e6139-258c-4eb6-84ad-de847db030ac.png)
 
 
 ## Feedback
