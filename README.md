@@ -28,4 +28,4 @@ Heroku
 
 ## Feedback
 
-If you have any feedback, please reach out to us at www.linkedin.com/in/abbasshafi-2000/
+If you have any feedback, please reach out at www.linkedin.com/in/abbasshafi-2000/ or abbasshafi.2000@gmail.com
